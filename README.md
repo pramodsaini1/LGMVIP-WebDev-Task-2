@@ -40,4 +40,4 @@ position: fixed; top: 50%; right: 0px; transform: translateY(-50%);
 
 11.Within few minites your website is deployed
 
-The link of my Website is : https://github.com/pramodsaini1/LGMVIP-WebDev-Task-2-
+The link of my Website is : https://pramodsaini1.github.io/Portfolio/
